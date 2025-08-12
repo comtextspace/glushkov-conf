@@ -1,7 +1,7 @@
 vuepress:
   title: "Архив конференции «Глушковские чтения»"
   base: "/"
-  revisionmeProjectId: ""
+  revisionmeProjectId: "-OXTmI1V5psq8A-0bwt1"
 
 pages:
   - index.md
